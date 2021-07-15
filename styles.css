@@ -1,0 +1,17 @@
+nav{
+    background-color: #011936 !important;
+    color: white !important;
+    position: fixed;
+    width: 100%;
+    top:0;
+    display: block;
+    z-index: 1000;
+}
+
+nav a{
+    color: white !important;
+}
+
+.container{
+    padding-top: 3.125rem;
+}
