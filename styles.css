@@ -15,3 +15,76 @@ nav a{
 .container{
     padding-top: 3.125rem;
 }
+
+#detail{
+    background-color: #e2eef8;
+    width: 100%;
+   /*  height: 80%; */
+    margin-top: 0.938rem;
+    border-radius: 0.5rem;
+}
+
+#back{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0;
+}
+
+#lunaPark{
+    height: 18.75rem;
+    width: 100%;
+    margin-top: 0.625rem;
+}
+
+#information{
+    margin-top: 1.875rem;
+}
+
+#attractions{
+    padding-top: 3.125rem;
+}
+
+.search{
+    background-color: #e2eef8;
+    width: 100%;
+    height: 100%;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+#filter{
+    padding-top: 3.125rem;
+}
+
+#buttonFilter{
+    background-color: #C63F3F;
+}
+
+#icon{
+       margin-left: 1.25rem;
+}
+
+#inputSearch{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+#buttonSearch{
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.card-body{
+    background-color: #e2eef8;
+    margin-bottom: 3.125rem;
+}
+
+.card-title, .card-text{
+    color: black;
+}
+
+.rounded-circle{
+    width: 6.25rem;
+    height: 6.25rem;
+    margin-top: 0.625rem;
+}

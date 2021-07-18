@@ -1,7 +1,7 @@
 # EsameCaniatti
 
 Istruzioni per la visualizzazione del progetto:
-- cliccare sul pulsante "CLONE"
+- cliccare sul pulsante "CODE"
 - scegliere l'opzione "download ZIP"
 - estrarre i contenuti dello zip appena scaricato
 - aprire la cartella
