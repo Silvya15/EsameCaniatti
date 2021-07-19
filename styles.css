@@ -1,90 +1,89 @@
-nav{
-    background-color: #011936 !important;
+nav {
+    background-color: #127475 !important;
     color: white !important;
     position: fixed;
     width: 100%;
-    top:0;
+    top: 0;
     display: block;
     z-index: 1000;
 }
 
-nav a{
+nav a {
     color: white !important;
 }
 
-.container{
+.container {
     padding-top: 3.125rem;
 }
 
-#detail{
-    background-color: #e2eef8;
+#detail {
+    background-color: #f5dfbb73;
     width: 100%;
-   /*  height: 80%; */
     margin-top: 0.938rem;
     border-radius: 0.5rem;
 }
 
-#back{
+#back {
     display: flex;
     justify-content: flex-end;
     padding: 0;
 }
 
-#lunaPark{
+#image {
     height: 18.75rem;
     width: 100%;
     margin-top: 0.625rem;
 }
 
-#information{
+#information {
     margin-top: 1.875rem;
 }
 
-#attractions{
+#attractions {
     padding-top: 3.125rem;
 }
 
-.search{
-    background-color: #e2eef8;
-    width: 100%;
-    height: 100%;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+#logo {
+    height: 4.875rem;
 }
 
-#filter{
-    padding-top: 3.125rem;
+h3 {
+    font-weight: bold;
 }
 
-#buttonFilter{
-    background-color: #C63F3F;
+#text {
+    text-align: justify;
+    text-justify: inter-word;
 }
 
-#icon{
-       margin-left: 1.25rem;
+#buttonPass {
+    background-color: #0e9594;
 }
 
-#inputSearch{
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+section {
+    height: 3.125rem;
+    background-color: #f5dfbb;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-bottom: 0;
+    padding-bottom: 3.125rem;
+    height: 30%;
+    margin-top: 50px;
+    height: 20%;
+    margin-top: 3.125rem;
 }
 
-#buttonSearch{
-    padding-left: 0 !important;
-    padding-right: 0 !important;
+.icon {
+    text-align: right !important;
 }
 
-.card-body{
-    background-color: #e2eef8;
-    margin-bottom: 3.125rem;
+.description {
+    text-align: left !important;
+    color: #313030;
+    margin-top: 3.125rem;
 }
 
-.card-title, .card-text{
-    color: black;
-}
-
-.rounded-circle{
-    width: 6.25rem;
-    height: 6.25rem;
-    margin-top: 0.625rem;
+#logoFooter {
+    height: 7rem;
 }
